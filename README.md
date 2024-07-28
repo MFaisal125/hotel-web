@@ -9,6 +9,3 @@ Currently, two official plugins are available:
 
 # This is my first plugin
 my plugin
-second function is called flutter
-my 
-new plugin called Flutter.
